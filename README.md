@@ -1,9 +1,5 @@
 # learnGo
-Go Snippets and programs written on the go
-
-My Notes:
-
-Day 1 :
+Go Snippets and programs written on the go. Everyday notes and snippets.
 
 Key Concepts:
 ============
