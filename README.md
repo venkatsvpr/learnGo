@@ -24,19 +24,19 @@ Syntax:
 - variable and package names are lower and mixed case (like private)
 - Exported functions/fields have initial Upper case (like public)
 - no semicolon needed ()
-'''
+```
 var animals [3]string
 animals[0] = "cat"
 animals[1] = "dog"
 animals[2] = "lion"
-'''
+```
 
 - code blocks are inside braces have the { in the same line
-'''
+```
 count := 0
 for i := 0; i < 10; i++ {
     count += 1
 }
-'''
+```
 
 
